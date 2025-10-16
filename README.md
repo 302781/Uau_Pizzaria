@@ -28,7 +28,7 @@ Planejar, prototipar, desenvolver, versionar, publicar e documentar um projeto w
 
 ## 🔗 Link para o Protótipo (Figma)
 
-👉 **Protótipo detalhado:** *INSIRA AQUI O LINK DO FIGMA*
+👉 **Protótipo detalhado:** [(https://www.figma.com/design/Elfwch9ThAEVblfzaXGGbm/Uau-Pizzaria?node-id=0-1&t=HmWvGpus6WRHgXWI-1)]
 
 ---
 
