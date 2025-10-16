@@ -78,9 +78,6 @@ header h1 {
 .fundo {
     background-image: url('img/fundo.png') center/cover no-repeat;
     opacity: 0.8;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repear;
     height: 720px;
     display: flex;
     justify-content: center;
@@ -227,6 +224,8 @@ form {
 
 .campo {
     margin-bottom: 1.5rem;
+    text-align:justify;
+
 }
 
 label {
