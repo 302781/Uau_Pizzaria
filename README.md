@@ -38,7 +38,6 @@ Cor primária (fundo / destaque): Verde claro (--primary-color: #D7E8D5) — tra
 
 Cor secundária / texto: Preto (--secondary-color: #000000) — para títulos e contrastes fortes.
 
-Sugestão de cor de apetite (CTA): Tom de vermelho/laranja para botões "Peça agora" e destaques.
 
 Tipografia
 
@@ -56,7 +55,7 @@ Cardápio / Produtos: grid responsivo de cards (2 colunas em tablet, 1 em mobile
 
 Sobre / Valores: seção com imagem + texto, caixas de destaque para diferenciais (ex.: massa artesanal, ingredientes frescos).
 
-Footer: informações de contato, horário e redes sociais com ícones.
+Footer: informações de contato, horário e localização.
 
 Ícones e Imagens
 
