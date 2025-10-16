@@ -2,7 +2,7 @@
     --primary-color: #D7E8D5;
     --secondary-color: #000000;
     --text-color: #D7E8D5 --font-family: 'Courier New', Courier, monospace;
-    --font-family-alt: 'Monotype Corsiva', cursive;
+    --font-family-alt: 'inter', sans-serif;
 }
 
 * {
