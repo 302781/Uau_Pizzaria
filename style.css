@@ -78,7 +78,6 @@ header h1 {
 .fundo {
     background-image: url('img/fundo.png') center/cover no-repeat;
     opacity: 0.8;
-    height: 720px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -373,7 +372,74 @@ footer p {
     }
 }
 
-@media (max-width: 768px) {
+@media (min-width: 768px) {
+    header {
+        flex-direction: column;
+        text-align: center;
+        padding: 1rem;
+    }
+
+    header h1 {
+        font-size: 2rem;
+    }
+
+    .nav ul {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .nav a {
+        font-size: 1rem;
+    }
+
+    main h2 {
+        font-size: 1.5rem;
+
+        .btn button {
+            padding: 0.5rem 1rem;
+            font-size: 1rem;
+        }
+    }
+
+    .carrossel{
+        background-position: top;
+    }
+}
+
+@media (min-width: 1024px) {
+    header {
+        flex-direction: column;
+        text-align: center;
+        padding: 1rem;
+    }
+
+    header h1 {
+        font-size: 2rem;
+    }
+
+    .nav ul {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .nav a {
+        font-size: 1rem;
+    }
+
+    main h2 {
+        font-size: 1.5rem;
+
+        .btn button {
+            padding: 0.5rem 1rem;
+            font-size: 1rem;
+        }
+    }
+
+    .carrossel{
+        background-position: top;
+    }
+}
+@media (max-width: 1280px) {
     header {
         flex-direction: column;
         text-align: center;
