@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contatos - UAU PIZZARIA</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body class="sobre-page">
     <header>
@@ -19,24 +19,44 @@
     </nav>
 </header>
 
-<form>
-  <div class="campo">
-    <label for="name">Escreva o seu nome: </label>
-    <input type="text" name="name" id="name" required />
-  </div>
-  <div class="campo">
-    <label for="numero">Escreva o seu numero: </label>
-    <input type="numero" name="numero" id="numero" required />
-  </div>
-  <div class="campo">
-   <button type="submit" class="submit-btn">Enviar Mensagem</button>
-  </div>
+<form
+  action="https://formspree.io/f/xanayyep"
+  method="POST"
+>
+  <label>
+    Seu Nome:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Seu pedido:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
 </form>
+
+<section class="Localizaçao">
+  <h1>Onde Estamos</h1>
+  <iframe src="https://www.google.com/maps/embed?pb=!3m2!1spt-BR!2sbr!4v1762798766344!5m2!1spt-BR!2sbr!6m8!1m7!1sA7saI0Wxu-se09aFOivyuQ!2m2!1d-15.86149417195899!2d-48.07781614460478!3f300.69350072044546!4f17.87556133885387!5f0.7820865974627469" 
+  width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</section>
+
+<div class="redes sociais">
+  <a href="https://instagram.com/pizzaiolo7534" target="_black" aria-label="Instagram">
+    <img src="img/instagram.png" alt="Logo do Instagram" class="instagram">
+  </a>
+  <a href="https://facebook.com/negocio" target="_black" aria-label="Facebook">
+    <img src="img/facebook.png" alt="Logo do facebook" class="Facebook">
+  </a>
+</div>
+
+</div>
+<a href="https://wa.me/061995654258?text=Ola!%20Gostaria%20de%20mais%20informaçoes"
+        target="_blank"
+        class="btn-whatsapp">Fale Conosco no Whatsapp</a>
 
 <footer>
         <p>Horarios: Ter a Dom - 18h as 23:00 <br> seg - Fechado</p>
-        <p>Endereço: QR 410 conjunto 04 lote 02 loja 01 - Samambaia Norte, Brasília - DF, 72320-004</p>
-        <p>Telefone: (61)99565-4258</p>
         <p>&copy; 2025 uau pizzaria. Todos os direitos reservados</p>
         <a href="#top" class="back-to-top">Voltar ao Topo</a>
     </footer>
