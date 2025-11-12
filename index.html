@@ -22,6 +22,7 @@
 <main>
     <h2>Bem-Vinda a UAU PIZZARIA</h2>
     <p>Faça o seu pedido! Escolha os seus sabores favoritos.</p>
+    </main>
 
     <section class="carrossel">
         <section class="slides">
@@ -56,5 +57,13 @@
         <p>&copy; 2025 uau pizzaria. Todos os direitos reservados</p>
         <a href="#top" class="back-to-top">Voltar ao Topo</a>
     </footer>
+
+    <div id="header-container"></div>
+    <div id="footer-container"></div>
+    <script src="js/componentes.js"></script>
+    <script>
+        carregarComponente('componentes/header.html', '#header-container');
+        carregarComponente('componentes/footer.html', '#footer-container');
+    </script>
 </body>
 </html>
