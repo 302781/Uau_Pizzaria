@@ -236,6 +236,9 @@ Uau_Pizzaria-main/
 
 3.Implementar Reutilização
 B. Usar o iframe a baixo do formulário para da mais destaques.
+
+4.Aprimoramento de Interatividade
+Novos icones de contatos(instagram, facebook e whatsapp) para o cliente poder falar mais rápido com a pizzaria.
 ___
 
 
