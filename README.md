@@ -234,6 +234,8 @@ Uau_Pizzaria-main/
 4 - Os Cards presentes têm a mesma estrutura.
 5 - Ambas possuem estruturas semelhantes.
 
+3.Implementar Reutilização
+B. Usar o iframe a baixo do formulário para da mais destaques.
 ___
 
 
