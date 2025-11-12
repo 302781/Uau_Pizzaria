@@ -8,7 +8,7 @@ Data de Preenchimento: 12/11/2025
 
  
 
-CRITÉRIOS TÉCNICOS 
+**CRITÉRIOS TÉCNICOS 
 
  
 
@@ -158,7 +158,7 @@ Justificativa (descreva como o design reflete o negócio escolhido): Algo minima
 
  
 
-RESUMO DA AUTOAVALIAÇÃO: 
+**RESUMO DA AUTOAVALIAÇÃO: 
 
  
 
@@ -181,7 +181,7 @@ Subtotal Estético       | 20 | 32 |
 TOTAL GERAL             | 38 | 64 | 
 
  
-Interpretação da Pontuação 
+**Interpretação da Pontuação 
 
 56-64 pontos (Avançado): Projeto excepcional, pronto para ser um case de sucesso para o negócio. 
 
@@ -193,7 +193,7 @@ Interpretação da Pontuação
 
  
 
-REFLEXÃO E PLANO DE AÇÃO 
+**REFLEXÃO E PLANO DE AÇÃO 
 
  
 
@@ -207,25 +207,19 @@ Possuí um bom layout para um site gastronômico.
 
 Destaca seu menu variado. 
 
- 
 
 Maiores Desafios 
 
 Qual foi o desafio mais importante que vocês enfrentaram?  
 
- 
 
 Escolher um tipo de design que combina com a proposta da pizzaria. 
 
- 
 
 Como vocês resolveram?  
 
- 
-
 Através de pesquisas e inspirações em outros sites gastronômicos 
 
- 
 
 O Que Precisa Melhorar? 
 
@@ -235,23 +229,21 @@ Critério 1: A imagem da logo não se adapta aos formatos de tela
 
 Ação para melhorar: adicionar ajuste dinâmico  
 
- 
 
 Critério 2: mais opções de produtos  
 
 Ação para melhorar: aumentar a tabela para uma variedade maior de produtos  
 
- 
 
 Próximos Passos (antes da entrega final) 
 
 O que vocês pretendem ajustar ou adicionar ainda? 
-
+Nada
  
 
 Notas Adicionais 
 
-Espaço para qualquer observação importante: 
+Nenhuma
 
  
 
