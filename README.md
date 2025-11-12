@@ -6,8 +6,8 @@
 
 ## 👥 Integrantes e Papéis
 
-* 👩‍💻 **Integrante 1:** Nome Completo — *Maria Vitória Ferreira Lopes*
-* 👨‍💻 **Integrante 2:** Nome Completo — *Lucas Braz*
+* 👩‍💻 **Integrante 1:** Nome Completo — *Maria Vitória Ferreira Lopes* - Desenvolvedor
+* 👨‍💻 **Integrante 2:** Nome Completo — *Lucas Braz* - Documentos/Readme
 ---
 
 ## 🎯 Tema
