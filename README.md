@@ -182,6 +182,8 @@ Uau_Pizzaria-main/
 * 🗓️ **15/10/2025** — Finalização — 👩‍🎨👨‍💻 *Lucas e Maria Vitória*
 
 ---
+##Alterações
+___
 
 ## 🎨 Justificativas de Design
 
