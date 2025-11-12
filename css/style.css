@@ -288,7 +288,7 @@ textarea:focus {
 }
 .redes img:hover {
     transform: scale(1.1);
-    opacity: 0.8;
+    opacity: 0
 }
 
 .tabela {
@@ -426,6 +426,9 @@ footer p {
     .carrossel{
         background-position: top;
     }
+    .banner img {
+        height: 30vh;
+    }
 }
 
 @media (min-width: 1024px) {
@@ -460,6 +463,9 @@ footer p {
     .carrossel{
         background-position: top;
     }
+    .banner img {
+        height: 45vh;
+    }
 }
 @media (max-width: 1280px) {
     header {
@@ -492,5 +498,8 @@ footer p {
 
     .carrossel{
         background-position: top;
+    }
+    .banner img {
+        height: auto;
     }
 }
