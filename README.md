@@ -25,7 +25,35 @@ O site da Uau Pizzaria foi criado com foco total em conversão e experiência do
  *CSS3;
  *Javasrcipt;
 ---
+🔧 Otimização
+---
+✔ HTML — Head e Favicon
 
+Ajuste dos metadados essenciais no <head>
+
+Inclusão do favicon (img/favicon.png)
+
+Melhoria de SEO e compatibilidade entre dispositivos
+
+✔ CSS — Minificação
+
+Ferramenta usada: CSS Minifier
+
+style.css minificado para style.min.css
+
+Quebras de linha, espaços e comentários removidos
+
+Arquivo otimizado referenciado no HTML
+
+✔ JavaScript — Minificação
+
+Ferramenta usada: JavaScript Minifier
+
+Arquivos JS minificados para reduzir tamanho
+
+Versões .min.js utilizadas no HTML
+ 
+---
 ## 📁 Estrutura de Pastas e Arquivos
 
 ```
