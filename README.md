@@ -4,7 +4,7 @@
 ## 👥 Integrantes e Papéis
 
 * 👩‍💻 **Integrante 1:** Nome Completo — *Maria Vitória Ferreira Lopes* - Desenvolvedora do CSS e Javascript ,Github e Direcionar o projeto.
-* 👨‍💻 **Integrante 2:** Nome Completo — *Lucas Braz* - Desenvolvimento do HTML, Documentos/Readme, Figma e Revisão do Projeto.
+* 👨‍💻 **Integrante 2:** Nome Completo — *Lucas Braz* - Desenvolvimento do HTML, Documentos/Readme, Figma, Revisão do Projeto e Teste.
 ---
 
 ## 🎯 Descrição do Projeto
