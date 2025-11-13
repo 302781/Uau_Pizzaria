@@ -101,8 +101,6 @@ Projeto desenvolvido como protótipo estático em **HTML + CSS + Javascript**.
   🌐https://302781.github.io/Uau_Pizzaria
   *Publicado: 13/11/2025
 
-
-
   ![Site](./img/site.png)
 
 ---
