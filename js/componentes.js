@@ -1,10 +1,6 @@
-async function carregarComponente(caminho, seletor){
-    try{
-        const resposta = await fetch(caminho);
-        const html = await resposta.text();
-        document.querySelector(seletor).innerHTML = html;
-    }catch(erro){
-        console.error("Erro ao carregar o componente:", erro);
-    
-    }
+async function carregarComponente(r, e) {
+    try {
+        let a = await fetch(r), t = await
+            a.text(); document.querySelector(e).innerHTML = t
+    } catch (o) { console.error("Erro ao carregar o componente:", o) }
 }

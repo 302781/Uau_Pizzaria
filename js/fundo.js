@@ -1,14 +1,6 @@
-
 function ajustarAlturaBanner() {
-    const banner = document.getElementById('bannerPizza');
-
-    if (banner) {
-        const alturaJanela = window.innerHeight;
-        const alturaDesejada = alturaJanela * 0.6;
-
-        banner.style.height = `${alturaDesejada}px`;
-    }
+    let e = document.getElementById("bannerPizza");
+    if (e) { let t = window.innerHeight; e.style.height = `${.6 * t}px` }
 }
-
-window.addEventListener('load', ajustarAlturaBanner);
-window.addEventListener('resize', ajustarAlturaBanner);
+window.addEventListener("load", ajustarAlturaBanner),
+    window.addEventListener("resize", ajustarAlturaBanner);
