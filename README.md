@@ -96,4 +96,9 @@ ou
 
 Projeto desenvolvido como protótipo estático em **HTML + CSS + Javascript**.
 
+---
+**Link do Github Pages**
+  🌐https://302781.github.io/Uau_Pizzaria
+---
+
 
