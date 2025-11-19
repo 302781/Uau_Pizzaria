@@ -87,10 +87,10 @@ Não há erros no script em nenhum dos navegadores nem no JavaScript ou em  CORS
 Os navegadores usados no computador foram Chrome, Edge e Firefox.
 No teste real Mobile foi usado o telefone Poco X6 PRO e Xiaome 12. Todos usando internet 5G.
 
-![Navegador](./Testes/Chrome.png)
-![Navegador](./Testes/Edge.png)
-![Navegador](./Testes/firefox.png)
-![Navegador](./Testes/Celular_1.jpg)
+![Navegador](.docs/Testes/Chrome.png)
+![Navegador](.docs/Testes/Edge.png)
+![Navegador](.docs/Testes/firefox.png)
+![Navegador](.docs/Testes/Celular_1.jpg)
 
 Testes realizados nas resoluções - 375x667, 390x844, 768x1024, 1024x1366, 1280x720 e 1920x1080.
 
