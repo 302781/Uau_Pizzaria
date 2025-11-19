@@ -1,136 +1,152 @@
-# 🍕 UAU PIZZARIA 🍕
----
+# 🍕 UAU PIZZARIA
 
 ## 👥 Integrantes e Papéis
 
-* 👩‍💻 **Integrante 1:** Nome Completo — *Maria Vitória Ferreira Lopes* - Desenvolvedora do CSS e Javascript ,Github e Direcionar o projeto.
-* 👨‍💻 **Integrante 2:** Nome Completo — *Lucas Braz* - Desenvolvimento do HTML, Documentos/Readme, Figma, Revisão do Projeto e Teste.
+* 👩‍💻 **Maria Vitória Ferreira Lopes** — Desenvolvimento de CSS e JavaScript, GitHub e direcionamento do projeto.
+* 👨‍💻 **Lucas Braz** — Desenvolvimento do HTML, documentação/README, design no Figma, revisão e testes.
+
 ---
 
 ## 🎯 Descrição do Projeto
 
-O site da Uau Pizzaria foi criado com foco total em conversão e experiência do cliente, trazendo um design moderno, leve e estratégico para pequenos negócios locais. A plataforma apresenta um catálogo completo de produtos, uma página altamente vendável, além de seções de contato, horários de funcionamento e endereço, garantindo que o cliente encontre rapidamente tudo o que precisa para fazer seu pedido.
+O site da **Uau Pizzaria** foi desenvolvido com foco em conversão e experiência do cliente, apresentando:
+
+* Catálogo completo de produtos
+* Página inicial estratégica para vendas
+* Seções de contato, horários e endereço
+* Design moderno, leve e responsivo
+
+Ideal para pequenos negócios que precisam de uma presença profissional na web.
 
 ---
 
-## 🔗 Link para o Protótipo (Figma)
+## 🎨 Protótipo no Figma
 
-👉 **Protótipo detalhado:** [(https://www.figma.com/design/Elfwch9ThAEVblfzaXGGbm/Uau-Pizzaria?node-id=0-1&t=HmWvGpus6WRHgXWI-1)]
-**🚨Também tem as fotos das telas no arquivo**
+👉 **Protótipo completo:** [https://www.figma.com/design/Elfwch9ThAEVblfzaXGGbm/Uau-Pizzaria?node-id=0-1&t=HmWvGpus6WRHgXWI-1](https://www.figma.com/design/Elfwch9ThAEVblfzaXGGbm/Uau-Pizzaria?node-id=0-1&t=HmWvGpus6WRHgXWI-1)
+⚠️ *As imagens das telas também estão no diretório `/docs/wireframe-figma`.*
 
 ---
-# Tecnologia Utilizadas
+
+## 🛠️ Tecnologias Utilizadas
+
+* **HTML5**
+* **CSS3**
+* **JavaScript**
+
 ---
- *HTML5;
- *CSS3;
- *Javasrcipt;
+
+## 🔧 Otimizações Realizadas
+
+### ✔ HTML
+
+* Ajuste dos metadados essenciais no `<head>`
+* Inclusão do favicon (`img/favicon.png`)
+* Melhoria no SEO e compatibilidade entre dispositivos
+
+### ✔ CSS — Minificação
+
+* Ferramenta: **CSS Minifier**
+* `style.css` → `style.min.css`
+* Remoção de espaços, quebras de linha e comentários
+* Arquivo minificado referenciado no HTML
+
+### ✔ JavaScript — Minificação
+
+* Ferramenta: **JavaScript Minifier**
+* Arquivos `.js` convertidos para `.min.js`
+* Redução de tamanho e carregamento mais rápido
+
 ---
-🔧 Otimização
----
-✔ HTML — Head e Favicon
 
-Ajuste dos metadados essenciais no <head>
-
-Inclusão do favicon (img/favicon.png)
-
-Melhoria de SEO e compatibilidade entre dispositivos
-
-✔ CSS — Minificação
-
-Ferramenta usada: CSS Minifier
-
-style.css minificado para style.min.css
-
-Quebras de linha, espaços e comentários removidos
-
-Arquivo otimizado referenciado no HTML
-
-✔ JavaScript — Minificação
-
-Ferramenta usada: JavaScript Minifier
-
-Arquivos JS minificados para reduzir tamanho
-
-Versões .min.js utilizadas no HTML
- 
----
-## 📁 Estrutura de Pastas e Arquivos
+## 📁 Estrutura de Pastas
 
 ```
 Uau_Pizzaria/
-├─ componentes/      **componenstes com estrutura separa com explicação na parte de cima**
-|          ├─ footer.html
-|          ├─ header.html
-|          ├─ main.html
-|          ├─ nav.html
-|          ├─ section.html
+├─ componentes/               → Componentes HTML separados
+│   ├─ footer.html
+│   ├─ header.html
+│   ├─ main.html
+│   ├─ nav.html
+│   ├─ section.html
+│
 ├─ css/
-|   ├─ componentes.css  **componenstes com estrutura separa com explicação na parte de cima**
-|   ├─ style.css
+│   ├─ componentes.css        → CSS dos componentes
+│   ├─ style.css              → Estilo principal
+│
 ├─ docs/
-|   ├─ wireframe-figma/  **imagens do figma**
-|   |            ├─ contatos.png
-|   |            ├─ inicio.png
-|   |            ├─ produtos.png
-|   |            ├─ Sobre.png
-|   ├─ rubrica.md    **documento técnico **
-├─ img/              
-|  ├─ batata.jpeg
-|  ├─ carne.jpeg
-|  ├─ doce.jpeg
-|  ├─ facebook.png  **icones**
-|  ├─ fundo.png
-|  ├─ instagram.png  **icones**
-|  ├─ metade_doce.jpeg
-|  ├─ metade_salgado.jpeg
-|  ├─ metade.jpeg
-|  ├─ pizza.jpeg
-|  ├─ whatsapp.png  **icones**
+│   ├─ wireframe-figma/       → Imagens do Figma
+│   │   ├─ contatos.png
+│   │   ├─ inicio.png
+│   │   ├─ produtos.png
+│   │   ├─ sobre.png
+│   ├─ rubrica.md             → Documento técnico
+│
+├─ img/                       → Imagens e ícones
+│   ├─ batata.jpeg
+│   ├─ carne.jpeg
+│   ├─ doce.jpeg
+│   ├─ facebook.png
+│   ├─ fundo.png
+│   ├─ instagram.png
+│   ├─ metade_doce.jpeg
+│   ├─ metade_salgado.jpeg
+│   ├─ metade.jpeg
+│   ├─ pizza.jpeg
+│   ├─ whatsapp.png
+│
 ├─ js/
-|   ├─ componetes.js
-|   ├─ fundo.js
-├─ contatos.html     **Formulário**
-├─ index.html        **Tela principal**
-├─ produtos.html     **Cadarpio/Catalogo**
-├─ README.MD     
-├─ sobre.html        **Historia, Localização e contatos em forma de icone**
+│   ├─ componentes.js
+│   ├─ fundo.js
+│
+├─ contatos.html              → Página de formulário
+├─ index.html                 → Página inicial
+├─ produtos.html              → Catálogo de produtos
+├─ sobre.html                 → História, localização e contatos
+├─ README.md
+```
 
 ---
 
-## 🧩 Etapas Realizadas (com Datas e Responsáveis)
+## 🧩 Etapas Realizadas
 
-* 🗓️ **09/10/2025** — Escolha do Projeto — 👩‍💻 *Maria Vitória*
-* 🗓️ **09/10/2025** — Design do Figma — 👩‍💻 *Lucas*
-* 🗓️ **11/10/2025** — Estrutura inicial (HTML) — 👩‍💻 *Lucas*
-* 🗓️ **11/10/2025** — Estrutura inicial (CSS) — 👨‍💻 *Maria Vitória *
-* 🗓️ **15/10/2025** — Finalização do código — 👩‍🎨👨‍💻 *Lucas e Maria Vitória*
-* 🗓️ **12/11/2025** — Documentação/Ajustes — 👩‍🎨👨‍💻 *Lucas e Maria Vitória*
-* 🗓️ **13/11/2025** — Documentação/Ajustes final — 👩‍🎨👨‍💻 *Lucas e Maria Vitória*
+* 🗓️ **09/10/2025** — Escolha do projeto — *Maria Vitória*
+* 🗓️ **09/10/2025** — Design no Figma — *Lucas*
+* 🗓️ **11/10/2025** — Estrutura inicial HTML — *Lucas*
+* 🗓️ **11/10/2025** — Estrutura inicial CSS — *Maria Vitória*
+* 🗓️ **15/10/2025** — Finalização do código — *Lucas e Maria Vitória*
+* 🗓️ **12/11/2025** — Documentação e ajustes — *Lucas e Maria Vitória*
+* 🗓️ **13/11/2025** — Ajustes finais e conclusão — *Lucas e Maria Vitória*
 
 ---
 
-## 🧰 Como Rodar Localmente
+## 🧰 Executando Localmente
 
-1. 💾 Baixe o repositório.
-2. 🌐 Abra `index.html` no navegador.
-ou
-1. 💾 Baixe o repositório.
-2. 🪟 Abaixar a extensão *Liver Server**
-3. 🌐 Abra `index.html` no navegador.
+### Opção 1 (simples)
+
+1. 💾 Baixe o repositório
+2. 🌐 Abra `index.html` no navegador
+
+### Opção 2 (com Live Server)
+
+1. 💾 Baixe o repositório
+2. 🪟 Instale a extensão **Live Server** no VS Code
+3. ▶️ Clique em **Open with Live Server**
 
 ---
 
 ## 🙌 Créditos
 
-Projeto desenvolvido como protótipo estático em **HTML + CSS + Javascript**.
-
----
-**Link do Github Pages**
-  🌐https://302781.github.io/Uau_Pizzaria
-  *Publicado: 13/11/2025
-
-  ![Site](./img/site.png)
+Projeto desenvolvido como protótipo estático usando **HTML + CSS + JavaScript**.
 
 ---
 
+## 🌐 GitHub Pages
 
+🔗 **Acesse o site publicado:**
+[https://302781.github.io/Uau_Pizzaria](https://302781.github.io/Uau_Pizzaria)
+
+📅 *Publicado em: 13/11/2025*
+
+![Site](./img/site.png)
+
+---
