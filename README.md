@@ -1,5 +1,5 @@
 # 🍕 UAU PIZZARIA
-
+---
 ## 👥 Integrantes e Papéis
 
 * 👩‍💻 **Maria Vitória Ferreira Lopes** — Desenvolvimento de CSS e JavaScript, GitHub e direcionamento do projeto.
@@ -57,6 +57,42 @@ Ideal para pequenos negócios que precisam de uma presença profissional na web.
 * Redução de tamanho e carregamento mais rápido
 
 ---
+Teste
+---
+Testes em Diferentes Navegadores
+
+O layout está correto?
+sim, em todos os navegadores
+
+Todas as páginas carregam?
+sim, adequadamente em todos os navegadores
+
+Imagens aparecem?
+Sim todas elas
+
+CSS está aplicado corretamente?
+Corretamente e sem erros
+
+JavaScript funciona
+Sim e sem erros no script
+
+Formulários estão funcionais?
+Sim, em todos os navegadores selecionados
+
+Menu e navegação funcionam?
+Sim e adequadamente 
+
+Não há erros no script em nenhum dos navegadores nem no JavaScript ou em  CORS.
+
+Os navegadores usados no computador foram Chrome, Edge e Firefox.
+No teste real Mobile foi usado o telefone Poco X6 PRO. Todos usando internet 5G.
+
+Testes realizados nas resoluções - 375x667, 390x844, 768x1024, 1024x1366, 1280x720 e 1920x1080.
+
+Testes no Mobile
+
+Funcionaram corretamente em um celular Xiaomi Android com Touch funcionando e carregamento rápido, usando o navegador Chrome e Brave.
+
 
 ## 📁 Estrutura de Pastas
 
