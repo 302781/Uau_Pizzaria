@@ -57,48 +57,43 @@ Ideal para pequenos negócios que precisam de uma presença profissional na web.
 * Redução de tamanho e carregamento mais rápido
 
 ---
-Teste
+# 🧪 Testes
+
+## ✔ Testes em Diferentes Navegadores
+* **Layout correto?** Sim  
+* **Todas as páginas carregam?** Sim  
+* **Imagens aparecem?** Sim  
+* **CSS aplicado corretamente?** Sim  
+* **JavaScript funcional?** Sim, sem erros  
+* **Formulários funcionam?** Sim  
+* **Menu e navegação?** Perfeito  
+
+Não houve erros de JavaScript nem problemas relacionados a CORS.
+
+### Navegadores testados (Desktop)
+* Chrome  
+* Edge  
+* Firefox  
+
+### Navegadores testados (Mobile)
+* Poco X6 PRO (Android)  
+* Xiaomi 12  
+* Navegadores: Chrome e Brave (5G)
+
+### 📸 Capturas dos Testes
+Chrome
+![Chrome](./docs/Testes/Chrome.png)  
+Edge
+![Edge](./docs/Testes/Edge.png)  
+Firefox
+![Firefox](./docs/Testes/firefox.png)  
+Celular
+![Celular](./docs/Testes/Celular_1.jpg)
+
+### 📱 Resoluções testadas
+`375x667`, `390x844`, `768x1024`, `1024x1366`, `1280x720`, `1920x1080`
+
 ---
-Testes em Diferentes Navegadores
-
-O layout está correto?
-sim, em todos os navegadores
-
-Todas as páginas carregam?
-sim, adequadamente em todos os navegadores
-
-Imagens aparecem?
-Sim todas elas
-
-CSS está aplicado corretamente?
-Corretamente e sem erros
-
-JavaScript funciona
-Sim e sem erros no script
-
-Formulários estão funcionais?
-Sim, em todos os navegadores selecionados
-
-Menu e navegação funcionam?
-Sim e adequadamente 
-
-Não há erros no script em nenhum dos navegadores nem no JavaScript ou em  CORS.
-
-Os navegadores usados no computador foram Chrome, Edge e Firefox.
-No teste real Mobile foi usado o telefone Poco X6 PRO e Xiaome 12. Todos usando internet 5G.
-
-![Navegador](.docs/Testes/Chrome.png)
-![Navegador](.docs/Testes/Edge.png)
-![Navegador](.docs/Testes/firefox.png)
-![Navegador](.docs/Testes/Celular_1.jpg)
-
-Testes realizados nas resoluções - 375x667, 390x844, 768x1024, 1024x1366, 1280x720 e 1920x1080.
-
-Testes no Mobile
-
-Funcionaram corretamente em um celular Xiaomi Android com Touch funcionando e carregamento rápido, usando o navegador Chrome e Brave.
-
-
 ## 📁 Estrutura de Pastas
 
 ```
