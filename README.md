@@ -81,9 +81,13 @@ Não houve erros de JavaScript nem problemas relacionados a CORS.
 * Navegadores: Chrome e Brave (5G)
 
 ### 📸 Capturas dos Testes
+Chrome
 ![Chrome](./docs/Testes/Chrome.png)  
+Edge
 ![Edge](./docs/Testes/Edge.png)  
+Firefox
 ![Firefox](./docs/Testes/firefox.png)  
+Celular
 ![Celular](./docs/Testes/Celular_1.jpg)
 
 ### 📱 Resoluções testadas
