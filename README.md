@@ -163,13 +163,13 @@ Não houve erros de JavaScript nem problemas relacionados a CORS.
 
 ### 📸 Capturas dos Testes
 Chrome
-![Chrome](./docs/Testes/Chrome.png)  
+![Chrome](./docs/Testes_navegador/Chrome.png)  
 Edge
-![Edge](./docs/Testes/Edge.png)  
+![Edge](./docs/Testes_navegador/Edge.png)  
 Firefox
-![Firefox](./docs/Testes/firefox.png)  
+![Firefox](./docs/Testes_navegador/firefox.png)  
 Celular
-![Celular](./docs/Testes/Celular_1.jpg)
+![Celular](./docs/Testes_navegador/Celular_1.jpg)
 
 ### 📱 Resoluções testadas
 `375x667`, `390x844`, `768x1024`, `1024x1366`, `1280x720`, `1920x1080`
