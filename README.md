@@ -110,7 +110,16 @@ Uau_Pizzaria/
 │   ├─ style.css              → Estilo principal
 │
 ├─ docs/
-│   ├─ wireframe-figma/       → Imagens do Figma
+|   ├─ avaliacoes-enviadas/
+|   |     ├─ Avaliação - Dupla 05.md
+|   ├─ avaliacoes-recebidas/
+|   |     ├─ Avaliação - Dupla 10.md
+|   ├─ Testes/
+|   |     ├─ Celular_1.jpg
+|   |     ├─ Chrome.png
+|   |     ├─ Edge.png
+|   |     ├─ firefox.png
+│   ├─ wireframe/       → Imagens do Figma
 │   │   ├─ contatos.png
 │   │   ├─ inicio.png
 │   │   ├─ produtos.png
