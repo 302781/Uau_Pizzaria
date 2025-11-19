@@ -62,11 +62,16 @@ Uau_Pizzaria/
 |   |     ├─ Avaliação - Dupla 05.md
 |   ├─ avaliacoes-recebidas/
 |   |     ├─ Avaliação - Dupla 10.md
-|   ├─ Testes/
+|   ├─ Testes_navegador/
 |   |     ├─ Celular_1.jpg
 |   |     ├─ Chrome.png
 |   |     ├─ Edge.png
 |   |     ├─ firefox.png
+|   ├─Testes_responsibilidade
+|   |     ├─ desktop-1920px.png
+|   |     ├─firefox.png
+|   |     ├─mobile-375px.jpg
+|   |     ├─tablet-768px.png
 │   ├─ wireframe/       → Imagens do Figma
 │   │   ├─ contatos.png
 │   │   ├─ inicio.png
